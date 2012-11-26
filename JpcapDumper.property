@@ -1,0 +1,7 @@
+#JpcapDumper
+#Thu Nov 08 12:48:18 NPT 2012
+WinX=153
+TableView=Ethernet Frame\:Source MAC,Ethernet Frame\:Destination MAC,IPv4\:Source IP,IPv4\:Destination IP,TCP\:Source Port
+WinHeight=526
+WinWidth=542
+WinY=145
